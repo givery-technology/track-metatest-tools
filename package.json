@@ -1,0 +1,26 @@
+{
+  "name": "track-metatest-tools",
+  "version": "0.0.0",
+  "description": "Tools to perform Track metatesting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/givery-technology/track-metatest-tools.git"
+  },
+  "author": "Givery Technology",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/givery-technology/track-metatest-tools/issues"
+  },
+  "homepage": "https://github.com/givery-technology/track-metatest-tools#readme",
+  "dependencies": {
+    "docopt": "^0.6.2",
+    "fs-extra": "^8.1.0",
+    "htmlparser2": "^4.0.0",
+    "xml-js": "^1.6.11",
+    "yaml": "^1.6.0"
+  }
+}
