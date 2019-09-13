@@ -1,6 +1,6 @@
 {
   "name": "track-metatest-tools",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tools to perform Track metatesting",
   "main": "index.js",
   "scripts": {
