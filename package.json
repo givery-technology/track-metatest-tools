@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "checkcover": "bin/checkcover.js",
+    "metatest": "bin/metatest.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/givery-technology/track-metatest-tools.git"
